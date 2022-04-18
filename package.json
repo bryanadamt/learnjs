@@ -1,0 +1,23 @@
+{
+  "name": "learnjs-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bryanadamt/learnjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bryanadamt/learnjs/issues"
+  },
+  "homepage": "https://github.com/bryanadamt/learnjs#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
