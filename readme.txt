@@ -2,3 +2,7 @@ https://stackoverflow.com/questions/5834014/lf-will-be-replaced-by-crlf-in-git-w
 FOR 
 "warning: LF will be replaced by CRLF in package.json.
 The file will have its original line endings in your working directory"
+
+
+I realize that using multiple terminals is beneficial
+

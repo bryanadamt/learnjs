@@ -5,7 +5,7 @@ app.listen(PORT, () => console.log("Running on http://localhost:${PORT}"));
 
 app.get("/info", (req, res) => {
     res.status(200).send({
-        name: "first API with express",
-        created: "18 April 22",
+        title: "this is my first api",
+        encouragement: "the first step is pretty hard",
     });
 });
