@@ -32,7 +32,3 @@ app.get("/hack", (req, res) => {
         NSA:"gone"
     });
 });
-
-app.post("info/:id", (req, res) => {
-    const { id } = req.params;
-});
